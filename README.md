@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Nânci Pires
 
-- I'm a Python developer seeking to learn and contribute.
+- 🌱 I'm a Python developer seeking to learn and contribute.
   
-- My final project in python training is on my repository.
+- 👩🏻‍💻 My final project in python training is on my repository.
   (Is an app for pc, for a fictional rent-a-car enterprise)
 
-- I'm learning too Java and C# in OOP
+- 📚 I'm learning too Java and C# in OOP
 
 
 
