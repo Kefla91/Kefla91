@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kefla91
-- 👀 I’m interested in programation
-- 🌱 I’m currently learning Python
+- 👀 I'm currently training Python
+- I'm learning Java and C# in POO
 
 <!---
 Kefla91/Kefla91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
